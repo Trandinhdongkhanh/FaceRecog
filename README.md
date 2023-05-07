@@ -19,7 +19,8 @@ Các bạn đứng ở thư mục FaceRecog chạy lệnh sau để cài tất c
 Với chỗ ảnh mà bạn đã sưu tầm bên trên, có thể là ảnh cả người, bây giờ chúng ta sẽ cắt riêng khuôn mặt ra để train nhé. Các bạn chuyển về thư mục FaceRecog và chạy lệnh :
 ### `python src/align_dataset_mtcnn.py  Dataset/FaceData/raw Dataset/FaceData/processed --image_size 160 --margin 32  --random_order --gpu_memory_fraction 0.25`
 
-Các bạn tải weights pretrain về tại link này : https://drive.google.com/drive/folders/1cz7nJIPT6lLjQKdwvFIAM2er1z7rf4Qx?usp=sharing
+Các bạn tải weights pretrain về tại link này: https://drive.google.com/drive/folders/1cz7nJIPT6lLjQKdwvFIAM2er1z7rf4Qx?usp=sharing
+
 Sau khi tải xong về, các bạn copy toàn bộ file tải về vào thư mục Models, chú ý chỉ lấy file, bỏ hết các thư mục như hình bên dưới của mình (không có file facemodel.pkl như bên dưới đâu nhé, mình chụp nhầm chút).
 
 ![image](https://user-images.githubusercontent.com/95671871/236677693-681f4c62-1d99-4c92-85f4-a546e346fb45.png)

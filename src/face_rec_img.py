@@ -18,6 +18,7 @@ import cv2
 import collections
 from sklearn.svm import SVC
 
+imgPath = None
 
 def main():
     parser = argparse.ArgumentParser()
@@ -125,9 +126,3 @@ def main():
 
             except:
                 pass
-
-            cv2.imshow('Face Recognition', frame)
-            cv2.waitKey()
-
-
-main()

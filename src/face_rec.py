@@ -2,6 +2,8 @@ from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
 
+from tkinter import filedialog
+
 import tensorflow as tf
 import argparse
 import facenet
@@ -28,7 +30,7 @@ def main():
     IMAGE_SIZE = 182
     INPUT_IMAGE_SIZE = 160
     CLASSIFIER_PATH = 'Models/facemodel.pkl'
-    VIDEO_PATH = args.path
+    VIDEO_PATH = filedialog.askopenfilename(title="Select MP4 File", filetypes=[("MP4 files", "*.mp4")])
     FACENET_MODEL_PATH = 'Models/20180402-114759.pb'
 
     # Load model da train de nhan dien khuon mat - thuc chat la classifier
@@ -130,6 +132,3 @@ def main():
 
             cap.release()
             cv2.destroyAllWindows()
-
-
-main()

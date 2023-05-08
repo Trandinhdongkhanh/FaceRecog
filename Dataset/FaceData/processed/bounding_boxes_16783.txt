@@ -1,0 +1,136 @@
+Dataset/FaceData/processed\DonaldTrump\DonaldTrump0272.png
+Dataset/FaceData/processed\DonaldTrump\DonaldTrump0276.png
+Dataset/FaceData/processed\DonaldTrump\DonaldTrump0277.png
+Dataset/FaceData/processed\Andrew\Andrew0226.png
+Dataset/FaceData/processed\Andrew\Andrew0227.png
+Dataset/FaceData/processed\Andrew\Andrew0228.png
+Dataset/FaceData/processed\Andrew\Andrew0229.png
+Dataset/FaceData/processed\Andrew\Andrew0230.png
+Dataset/FaceData/processed\Andrew\Andrew0231.png
+Dataset/FaceData/processed\Andrew\Andrew0232.png
+Dataset/FaceData/processed\Andrew\Andrew0233.png
+Dataset/FaceData/processed\Andrew\Andrew0234.png
+Dataset/FaceData/processed\Andrew\Andrew0235.png
+Dataset/FaceData/processed\Andrew\Andrew0236.png
+Dataset/FaceData/processed\Andrew\Andrew0237.png
+Dataset/FaceData/processed\Andrew\Andrew0238.png
+Dataset/FaceData/processed\Andrew\Andrew0239.png
+Dataset/FaceData/processed\Andrew\Andrew0240.png
+Dataset/FaceData/processed\Andrew\Andrew0241.png
+Dataset/FaceData/processed\Andrew\Andrew0242.png
+Dataset/FaceData/processed\Andrew\Andrew0243.png
+Dataset/FaceData/processed\Andrew\Andrew0244.png
+Dataset/FaceData/processed\Andrew\Andrew0245.png
+Dataset/FaceData/processed\Andrew\Andrew0246.png
+Dataset/FaceData/processed\Andrew\Andrew0247.png
+Dataset/FaceData/processed\Andrew\Andrew0248.png
+Dataset/FaceData/processed\Andrew\Andrew0249.png
+Dataset/FaceData/processed\Andrew\Andrew0291.png
+Dataset/FaceData/processed\Andrew\Andrew0292.png
+Dataset/FaceData/processed\Andrew\Andrew0293.png
+Dataset/FaceData/processed\Andrew\Andrew0294.png
+Dataset/FaceData/processed\Andrew\Andrew0295.png
+Dataset/FaceData/processed\Andrew\Andrew0296.png
+Dataset/FaceData/processed\Andrew\Andrew0297.png
+Dataset/FaceData/processed\Andrew\Andrew0298.png
+Dataset/FaceData/processed\Andrew\Andrew0299.png
+Dataset/FaceData/processed\BanThach\BanThach0258.png 80 41 183 155
+Dataset/FaceData/processed\BanThach\BanThach0293.png 84 46 192 158
+Dataset/FaceData/processed\BanThach\BanThach0294.png 80 48 189 161
+Dataset/FaceData/processed\BanThach\BanThach0230.png 75 45 176 154
+Dataset/FaceData/processed\BanThach\BanThach0279.png
+Dataset/FaceData/processed\BanThach\BanThach0287.png 88 41 192 149
+Dataset/FaceData/processed\BanThach\BanThach0299.png 76 55 198 182
+Dataset/FaceData/processed\BanThach\BanThach0288.png 85 45 193 153
+Dataset/FaceData/processed\BanThach\BanThach0202.png 70 42 180 157
+Dataset/FaceData/processed\BanThach\BanThach0209.png 63 47 165 161
+Dataset/FaceData/processed\BanThach\BanThach0214.png 54 39 164 166
+Dataset/FaceData/processed\BanThach\BanThach0231.png 76 44 185 156
+Dataset/FaceData/processed\BanThach\BanThach0272.png
+Dataset/FaceData/processed\BanThach\BanThach0237.png 89 43 195 152
+Dataset/FaceData/processed\BanThach\BanThach0216.png 51 42 150 158
+Dataset/FaceData/processed\BanThach\BanThach0254.png 90 41 198 150
+Dataset/FaceData/processed\BanThach\BanThach0219.png 47 40 148 158
+Dataset/FaceData/processed\BanThach\BanThach0270.png
+Dataset/FaceData/processed\BanThach\BanThach0247.png 112 43 213 156
+Dataset/FaceData/processed\BanThach\BanThach0248.png 111 43 212 159
+Dataset/FaceData/processed\BanThach\BanThach0262.png 86 38 194 147
+Dataset/FaceData/processed\BanThach\BanThach0225.png 51 36 153 157
+Dataset/FaceData/processed\BanThach\BanThach0290.png 84 46 191 157
+Dataset/FaceData/processed\BanThach\BanThach0291.png 84 45 191 157
+Dataset/FaceData/processed\BanThach\BanThach0246.png 113 42 213 157
+Dataset/FaceData/processed\BanThach\BanThach0234.png 80 41 191 157
+Dataset/FaceData/processed\BanThach\BanThach0222.png 49 40 147 158
+Dataset/FaceData/processed\BanThach\BanThach0251.png 102 40 208 161
+Dataset/FaceData/processed\BanThach\BanThach0283.png 85 43 188 142
+Dataset/FaceData/processed\BanThach\BanThach0203.png 76 42 180 154
+Dataset/FaceData/processed\BanThach\BanThach0217.png 48 41 148 158
+Dataset/FaceData/processed\BanThach\BanThach0204.png 69 45 174 156
+Dataset/FaceData/processed\BanThach\BanThach0296.png 78 46 190 170
+Dataset/FaceData/processed\BanThach\BanThach0273.png
+Dataset/FaceData/processed\BanThach\BanThach0252.png 91 39 203 155
+Dataset/FaceData/processed\BanThach\BanThach0255.png 85 40 197 154
+Dataset/FaceData/processed\BanThach\BanThach0267.png 92 41 192 142
+Dataset/FaceData/processed\BanThach\BanThach0242.png 102 42 208 166
+Dataset/FaceData/processed\BanThach\BanThach0264.png 87 42 192 144
+Dataset/FaceData/processed\BanThach\BanThach0241.png 105 42 207 155
+Dataset/FaceData/processed\BanThach\BanThach0280.png
+Dataset/FaceData/processed\BanThach\BanThach0233.png 75 39 187 160
+Dataset/FaceData/processed\BanThach\BanThach0281.png
+Dataset/FaceData/processed\BanThach\BanThach0256.png 84 42 191 151
+Dataset/FaceData/processed\BanThach\BanThach0259.png 84 42 193 154
+Dataset/FaceData/processed\BanThach\BanThach0297.png 82 48 197 177
+Dataset/FaceData/processed\BanThach\BanThach0228.png 61 38 164 159
+Dataset/FaceData/processed\BanThach\BanThach0224.png 49 39 148 155
+Dataset/FaceData/processed\BanThach\BanThach0295.png 80 49 190 166
+Dataset/FaceData/processed\BanThach\BanThach0212.png 56 47 149 155
+Dataset/FaceData/processed\BanThach\BanThach0208.png 66 45 169 160
+Dataset/FaceData/processed\BanThach\BanThach0263.png 86 41 190 144
+Dataset/FaceData/processed\BanThach\BanThach0220.png 49 41 147 156
+Dataset/FaceData/processed\BanThach\BanThach0232.png 75 45 185 158
+Dataset/FaceData/processed\BanThach\BanThach0286.png 84 42 192 155
+Dataset/FaceData/processed\BanThach\BanThach0265.png 86 43 191 145
+Dataset/FaceData/processed\BanThach\BanThach0245.png 113 42 213 157
+Dataset/FaceData/processed\BanThach\BanThach0271.png
+Dataset/FaceData/processed\BanThach\BanThach0276.png
+Dataset/FaceData/processed\BanThach\BanThach0223.png 50 44 145 154
+Dataset/FaceData/processed\BanThach\BanThach0277.png
+Dataset/FaceData/processed\BanThach\BanThach0210.png 61 44 168 163
+Dataset/FaceData/processed\BanThach\BanThach0289.png 83 45 192 157
+Dataset/FaceData/processed\BanThach\BanThach0229.png 69 41 172 154
+Dataset/FaceData/processed\BanThach\BanThach0298.png 78 53 196 178
+Dataset/FaceData/processed\BanThach\BanThach0240.png 104 42 205 153
+Dataset/FaceData/processed\BanThach\BanThach0284.png 92 43 192 144
+Dataset/FaceData/processed\BanThach\BanThach0218.png 48 40 149 159
+Dataset/FaceData/processed\BanThach\BanThach0243.png 103 41 211 167
+Dataset/FaceData/processed\BanThach\BanThach0275.png
+Dataset/FaceData/processed\BanThach\BanThach0200.png 74 37 181 152
+Dataset/FaceData/processed\BanThach\BanThach0238.png 95 41 199 155
+Dataset/FaceData/processed\BanThach\BanThach0207.png 65 44 170 158
+Dataset/FaceData/processed\BanThach\BanThach0235.png 84 40 194 159
+Dataset/FaceData/processed\BanThach\BanThach0201.png 75 42 180 152
+Dataset/FaceData/processed\BanThach\BanThach0274.png
+Dataset/FaceData/processed\BanThach\BanThach0249.png 111 42 213 159
+Dataset/FaceData/processed\BanThach\BanThach0268.png 89 42 194 147
+Dataset/FaceData/processed\BanThach\BanThach0206.png 68 41 175 162
+Dataset/FaceData/processed\BanThach\BanThach0266.png 87 39 192 146
+Dataset/FaceData/processed\BanThach\BanThach0285.png 89 43 192 147
+Dataset/FaceData/processed\BanThach\BanThach0215.png 50 37 155 160
+Dataset/FaceData/processed\BanThach\BanThach0282.png
+Dataset/FaceData/processed\BanThach\BanThach0205.png 67 46 176 159
+Dataset/FaceData/processed\BanThach\BanThach0244.png 113 42 215 160
+Dataset/FaceData/processed\BanThach\BanThach0250.png 110 41 213 156
+Dataset/FaceData/processed\BanThach\BanThach0236.png 92 42 195 155
+Dataset/FaceData/processed\BanThach\BanThach0257.png 83 42 189 151
+Dataset/FaceData/processed\BanThach\BanThach0239.png 101 43 203 156
+Dataset/FaceData/processed\BanThach\BanThach0211.png 59 45 165 161
+Dataset/FaceData/processed\BanThach\BanThach0221.png 49 39 153 161
+Dataset/FaceData/processed\BanThach\BanThach0227.png 55 42 150 152
+Dataset/FaceData/processed\BanThach\BanThach0253.png 89 43 201 161
+Dataset/FaceData/processed\BanThach\BanThach0261.png 84 39 193 151
+Dataset/FaceData/processed\BanThach\BanThach0269.png
+Dataset/FaceData/processed\BanThach\BanThach0226.png 51 37 150 153
+Dataset/FaceData/processed\BanThach\BanThach0292.png 83 46 192 156
+Dataset/FaceData/processed\BanThach\BanThach0260.png 83 42 191 151
+Dataset/FaceData/processed\BanThach\BanThach0213.png 55 41 158 158
+Dataset/FaceData/processed\BanThach\BanThach0278.png

@@ -1,0 +1,149 @@
+Dataset/FaceData/processed\Andrew\Andrew0226.png
+Dataset/FaceData/processed\Andrew\Andrew0227.png
+Dataset/FaceData/processed\Andrew\Andrew0228.png
+Dataset/FaceData/processed\Andrew\Andrew0229.png
+Dataset/FaceData/processed\Andrew\Andrew0230.png
+Dataset/FaceData/processed\Andrew\Andrew0231.png
+Dataset/FaceData/processed\Andrew\Andrew0232.png
+Dataset/FaceData/processed\Andrew\Andrew0233.png
+Dataset/FaceData/processed\Andrew\Andrew0234.png
+Dataset/FaceData/processed\Andrew\Andrew0235.png
+Dataset/FaceData/processed\Andrew\Andrew0236.png
+Dataset/FaceData/processed\Andrew\Andrew0237.png
+Dataset/FaceData/processed\Andrew\Andrew0238.png
+Dataset/FaceData/processed\Andrew\Andrew0239.png
+Dataset/FaceData/processed\Andrew\Andrew0240.png
+Dataset/FaceData/processed\Andrew\Andrew0241.png
+Dataset/FaceData/processed\Andrew\Andrew0242.png
+Dataset/FaceData/processed\Andrew\Andrew0243.png
+Dataset/FaceData/processed\Andrew\Andrew0244.png
+Dataset/FaceData/processed\Andrew\Andrew0245.png
+Dataset/FaceData/processed\Andrew\Andrew0246.png
+Dataset/FaceData/processed\Andrew\Andrew0247.png
+Dataset/FaceData/processed\Andrew\Andrew0248.png
+Dataset/FaceData/processed\Andrew\Andrew0249.png
+Dataset/FaceData/processed\Andrew\Andrew0291.png
+Dataset/FaceData/processed\Andrew\Andrew0292.png
+Dataset/FaceData/processed\Andrew\Andrew0293.png
+Dataset/FaceData/processed\Andrew\Andrew0294.png
+Dataset/FaceData/processed\Andrew\Andrew0295.png
+Dataset/FaceData/processed\Andrew\Andrew0296.png
+Dataset/FaceData/processed\Andrew\Andrew0297.png
+Dataset/FaceData/processed\Andrew\Andrew0298.png
+Dataset/FaceData/processed\Andrew\Andrew0299.png
+Dataset/FaceData/processed\DonaldTrump\DonaldTrump0210.png
+Dataset/FaceData/processed\DonaldTrump\DonaldTrump0211.png
+Dataset/FaceData/processed\BanThach\BanThach0269.png
+Dataset/FaceData/processed\BanThach\BanThach0270.png
+Dataset/FaceData/processed\BanThach\BanThach0271.png
+Dataset/FaceData/processed\BanThach\BanThach0272.png
+Dataset/FaceData/processed\BanThach\BanThach0273.png
+Dataset/FaceData/processed\BanThach\BanThach0274.png
+Dataset/FaceData/processed\BanThach\BanThach0275.png
+Dataset/FaceData/processed\BanThach\BanThach0276.png
+Dataset/FaceData/processed\BanThach\BanThach0277.png
+Dataset/FaceData/processed\BanThach\BanThach0278.png
+Dataset/FaceData/processed\BanThach\BanThach0279.png
+Dataset/FaceData/processed\BanThach\BanThach0280.png
+Dataset/FaceData/processed\BanThach\BanThach0281.png
+Dataset/FaceData/processed\BanThach\BanThach0282.png
+Dataset/FaceData/processed\BanKhanh\BanKhanh0297.png 81 61 164 164
+Dataset/FaceData/processed\BanKhanh\BanKhanh0252.png 82 33 168 140
+Dataset/FaceData/processed\BanKhanh\BanKhanh0256.png 85 34 169 139
+Dataset/FaceData/processed\BanKhanh\BanKhanh0264.png 83 36 166 134
+Dataset/FaceData/processed\BanKhanh\BanKhanh0298.png 81 61 164 164
+Dataset/FaceData/processed\BanKhanh\BanKhanh0229.png 76 34 160 138
+Dataset/FaceData/processed\BanKhanh\BanKhanh0284.png 79 41 162 143
+Dataset/FaceData/processed\BanKhanh\BanKhanh0215.png 78 33 162 139
+Dataset/FaceData/processed\BanKhanh\BanKhanh0209.png 79 34 163 139
+Dataset/FaceData/processed\BanKhanh\BanKhanh0282.png 79 37 162 142
+Dataset/FaceData/processed\BanKhanh\BanKhanh0293.png 81 58 165 159
+Dataset/FaceData/processed\BanKhanh\BanKhanh0219.png 75 31 162 140
+Dataset/FaceData/processed\BanKhanh\BanKhanh0232.png 74 29 161 141
+Dataset/FaceData/processed\BanKhanh\BanKhanh0214.png 78 34 161 139
+Dataset/FaceData/processed\BanKhanh\BanKhanh0287.png 79 42 164 147
+Dataset/FaceData/processed\BanKhanh\BanKhanh0221.png 77 33 162 139
+Dataset/FaceData/processed\BanKhanh\BanKhanh0292.png 81 56 164 156
+Dataset/FaceData/processed\BanKhanh\BanKhanh0239.png 77 32 161 136
+Dataset/FaceData/processed\BanKhanh\BanKhanh0236.png 79 32 163 136
+Dataset/FaceData/processed\BanKhanh\BanKhanh0279.png 79 33 163 139
+Dataset/FaceData/processed\BanKhanh\BanKhanh0243.png 79 34 162 139
+Dataset/FaceData/processed\BanKhanh\BanKhanh0205.png 79 35 162 140
+Dataset/FaceData/processed\BanKhanh\BanKhanh0278.png 79 33 163 139
+Dataset/FaceData/processed\BanKhanh\BanKhanh0222.png 75 30 161 142
+Dataset/FaceData/processed\BanKhanh\BanKhanh0200.png 78 37 161 141
+Dataset/FaceData/processed\BanKhanh\BanKhanh0276.png 77 33 162 139
+Dataset/FaceData/processed\BanKhanh\BanKhanh0230.png 74 30 162 141
+Dataset/FaceData/processed\BanKhanh\BanKhanh0206.png 79 35 162 140
+Dataset/FaceData/processed\BanKhanh\BanKhanh0262.png 81 32 167 140
+Dataset/FaceData/processed\BanKhanh\BanKhanh0201.png 78 37 161 141
+Dataset/FaceData/processed\BanKhanh\BanKhanh0267.png 82 34 165 138
+Dataset/FaceData/processed\BanKhanh\BanKhanh0203.png 80 37 160 137
+Dataset/FaceData/processed\BanKhanh\BanKhanh0246.png 81 33 164 139
+Dataset/FaceData/processed\BanKhanh\BanKhanh0277.png 77 32 162 139
+Dataset/FaceData/processed\BanKhanh\BanKhanh0242.png 79 35 162 139
+Dataset/FaceData/processed\BanKhanh\BanKhanh0220.png 76 34 162 138
+Dataset/FaceData/processed\BanKhanh\BanKhanh0231.png 76 31 163 140
+Dataset/FaceData/processed\BanKhanh\BanKhanh0217.png 75 33 160 139
+Dataset/FaceData/processed\BanKhanh\BanKhanh0204.png 79 36 162 140
+Dataset/FaceData/processed\BanKhanh\BanKhanh0253.png 84 33 169 139
+Dataset/FaceData/processed\BanKhanh\BanKhanh0280.png 80 36 163 139
+Dataset/FaceData/processed\BanKhanh\BanKhanh0263.png 82 33 167 139
+Dataset/FaceData/processed\BanKhanh\BanKhanh0254.png 85 34 169 139
+Dataset/FaceData/processed\BanKhanh\BanKhanh0245.png 80 34 163 140
+Dataset/FaceData/processed\BanKhanh\BanKhanh0249.png 81 33 166 140
+Dataset/FaceData/processed\BanKhanh\BanKhanh0241.png 79 35 162 139
+Dataset/FaceData/processed\BanKhanh\BanKhanh0251.png 81 33 167 140
+Dataset/FaceData/processed\BanKhanh\BanKhanh0265.png 83 35 164 135
+Dataset/FaceData/processed\BanKhanh\BanKhanh0270.png 80 35 163 139
+Dataset/FaceData/processed\BanKhanh\BanKhanh0258.png 85 33 169 139
+Dataset/FaceData/processed\BanKhanh\BanKhanh0271.png 80 35 163 139
+Dataset/FaceData/processed\BanKhanh\BanKhanh0266.png 82 34 166 138
+Dataset/FaceData/processed\BanKhanh\BanKhanh0240.png 76 33 161 138
+Dataset/FaceData/processed\BanKhanh\BanKhanh0228.png 77 33 162 139
+Dataset/FaceData/processed\BanKhanh\BanKhanh0255.png 85 34 169 139
+Dataset/FaceData/processed\BanKhanh\BanKhanh0261.png 81 33 167 140
+Dataset/FaceData/processed\BanKhanh\BanKhanh0234.png 76 32 163 140
+Dataset/FaceData/processed\BanKhanh\BanKhanh0296.png 81 59 164 165
+Dataset/FaceData/processed\BanKhanh\BanKhanh0237.png 80 32 162 136
+Dataset/FaceData/processed\BanKhanh\BanKhanh0283.png 80 39 163 143
+Dataset/FaceData/processed\BanKhanh\BanKhanh0210.png 79 35 163 139
+Dataset/FaceData/processed\BanKhanh\BanKhanh0260.png 81 33 168 141
+Dataset/FaceData/processed\BanKhanh\BanKhanh0275.png 79 35 162 138
+Dataset/FaceData/processed\BanKhanh\BanKhanh0233.png 74 28 161 140
+Dataset/FaceData/processed\BanKhanh\BanKhanh0244.png 81 34 164 140
+Dataset/FaceData/processed\BanKhanh\BanKhanh0274.png 78 34 162 139
+Dataset/FaceData/processed\BanKhanh\BanKhanh0202.png 81 42 159 132
+Dataset/FaceData/processed\BanKhanh\BanKhanh0290.png 80 52 163 153
+Dataset/FaceData/processed\BanKhanh\BanKhanh0259.png 82 33 168 141
+Dataset/FaceData/processed\BanKhanh\BanKhanh0272.png 78 32 163 138
+Dataset/FaceData/processed\BanKhanh\BanKhanh0288.png 80 48 164 149
+Dataset/FaceData/processed\BanKhanh\BanKhanh0286.png 80 42 164 145
+Dataset/FaceData/processed\BanKhanh\BanKhanh0268.png 80 34 163 139
+Dataset/FaceData/processed\BanKhanh\BanKhanh0299.png 80 60 164 165
+Dataset/FaceData/processed\BanKhanh\BanKhanh0216.png 77 34 161 139
+Dataset/FaceData/processed\BanKhanh\BanKhanh0291.png 79 51 164 154
+Dataset/FaceData/processed\BanKhanh\BanKhanh0208.png 79 36 163 140
+Dataset/FaceData/processed\BanKhanh\BanKhanh0223.png 76 34 161 138
+Dataset/FaceData/processed\BanKhanh\BanKhanh0225.png 77 33 162 140
+Dataset/FaceData/processed\BanKhanh\BanKhanh0211.png 80 35 163 139
+Dataset/FaceData/processed\BanKhanh\BanKhanh0207.png 79 35 162 140
+Dataset/FaceData/processed\BanKhanh\BanKhanh0227.png 77 33 162 139
+Dataset/FaceData/processed\BanKhanh\BanKhanh0213.png 80 35 163 140
+Dataset/FaceData/processed\BanKhanh\BanKhanh0235.png 75 30 160 138
+Dataset/FaceData/processed\BanKhanh\BanKhanh0218.png 77 32 163 138
+Dataset/FaceData/processed\BanKhanh\BanKhanh0289.png 80 47 164 151
+Dataset/FaceData/processed\BanKhanh\BanKhanh0250.png 82 33 166 139
+Dataset/FaceData/processed\BanKhanh\BanKhanh0212.png 79 35 162 141
+Dataset/FaceData/processed\BanKhanh\BanKhanh0226.png 76 32 161 138
+Dataset/FaceData/processed\BanKhanh\BanKhanh0257.png 85 33 169 140
+Dataset/FaceData/processed\BanKhanh\BanKhanh0238.png 75 32 160 137
+Dataset/FaceData/processed\BanKhanh\BanKhanh0285.png 80 41 164 142
+Dataset/FaceData/processed\BanKhanh\BanKhanh0295.png 80 59 164 164
+Dataset/FaceData/processed\BanKhanh\BanKhanh0224.png 78 33 162 140
+Dataset/FaceData/processed\BanKhanh\BanKhanh0273.png 79 35 162 139
+Dataset/FaceData/processed\BanKhanh\BanKhanh0248.png 80 33 165 140
+Dataset/FaceData/processed\BanKhanh\BanKhanh0269.png 81 36 163 139
+Dataset/FaceData/processed\BanKhanh\BanKhanh0294.png 80 58 164 162
+Dataset/FaceData/processed\BanKhanh\BanKhanh0281.png 79 35 164 141
+Dataset/FaceData/processed\BanKhanh\BanKhanh0247.png 81 34 165 140

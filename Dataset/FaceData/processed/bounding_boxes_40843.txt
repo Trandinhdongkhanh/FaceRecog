@@ -1,5 +1,0 @@
-Dataset/FaceData/processed\andrew\andrew0.png 376 347 1022 1212
-Dataset/FaceData/processed\andrew\andrew1.png 30 50 137 188
-Dataset/FaceData/processed\andrew\andrew2.png 373 210 778 765
-Dataset/FaceData/processed\andrew\andrew3.png 406 106 604 384
-Dataset/FaceData/processed\andrew\andrew4.png 672 276 1003 733

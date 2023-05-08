@@ -3,27 +3,17 @@ from __future__ import division
 from __future__ import print_function
 
 import tensorflow as tf
-from imutils.video import VideoStream
 
-import argparse
 import facenet
-import imutils
-import os
-import sys
-import math
 import pickle
 import align.detect_face
 import numpy as np
 import cv2
 import collections
-from sklearn.svm import SVC
 
 imgPath = None
 
 def main():
-    parser = argparse.ArgumentParser()
-    parser.add_argument('--path', help='Path of the video you want to test on.', default=0)
-    args = parser.parse_args()
 
     MINSIZE = 20
     THRESHOLD = [0.6, 0.7, 0.7]
@@ -31,7 +21,6 @@ def main():
     IMAGE_SIZE = 182
     INPUT_IMAGE_SIZE = 160
     CLASSIFIER_PATH = 'Models/facemodel.pkl'
-    VIDEO_PATH = args.path
     FACENET_MODEL_PATH = 'Models/20180402-114759.pb'
 
     # Load The Custom Classifier
@@ -62,7 +51,7 @@ def main():
             person_detected = collections.Counter()
 
             # Load image from file
-            img = cv2.imread('Dataset/FaceData/raw/Andrew/andrew3.jpg')
+            img = cv2.imread(imgPath)
 
             # Resize image
             resized = cv2.resize(img, (0, 0), fx=0.5, fy=0.5)
@@ -126,3 +115,6 @@ def main():
 
             except:
                 pass
+
+            cv2.imshow("Face Recognition", frame)
+            cv2.waitKey(0)

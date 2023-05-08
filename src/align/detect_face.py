@@ -283,9 +283,11 @@ def create_mtcnn(sess, model_path):
     if not model_path:
         model_path, _ = os.path.split(os.path.realpath(__file__))
 
+    # Khởi tạo các placeholder Tensor để chứa dữ liệu đầu vào cho các mô hình CNN tương ứng trong MTCNN (PNet, RNet và ONet).
     with tf.variable_scope('pnet'):
         data = tf.placeholder(tf.float32, (None, None, None, 3), 'input')
         pnet = PNet({'data': data})
+        # load các trọng số được huấn luyện trước của các mô hình từ các tệp .npy
         pnet.load(os.path.join(model_path, 'det1.npy'), sess)
     with tf.variable_scope('rnet'):
         data = tf.placeholder(tf.float32, (None, 24, 24, 3), 'input')
@@ -303,6 +305,14 @@ def create_mtcnn(sess, model_path):
     return pnet_fun, rnet_fun, onet_fun
 
 
+# Hàm detect_face() phát hiện khuôn mặt của ảnh đầu vào vẽ xác định khung vuông quanh khuôn mặt đó
+# Hàm sử dụng các bước sau để phát hiện khuôn mặt:
+
+# 1. Tạo một pyramid size của ảnh đầu vào theo factor được cung cấp.
+# 2. Áp dụng model pnet để tạo các khuôn mặt dự đoán và các khung vuông (bounding boxes) tương ứng.
+# 3. Áp dụng non-maximum suppression (NMS) để loại bỏ các khung trùng lặp và giữ lại khung có điểm cao nhất.
+# 4. Áp dụng rnet để lọc các khuôn mặt được chọn từ bước trước đó và tạo ra các khung mới cho mỗi khuôn mặt.
+# 5. Áp dụng NMS lần cuối để loại bỏ các khung trùng lặp và trả về các khung và các điểm tương ứng cho mỗi khung đó.
 def detect_face(img, minsize, pnet, rnet, onet, threshold, factor):
     """Detects faces in an image, and returns bounding boxes and points for them.
     img: input image

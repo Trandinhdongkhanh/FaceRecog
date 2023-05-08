@@ -5,24 +5,15 @@ from __future__ import print_function
 from tkinter import filedialog
 
 import tensorflow as tf
-import argparse
 import facenet
-import os
-import sys
-import math
 import pickle
 import align.detect_face
 import numpy as np
 import cv2
 import collections
-from sklearn.svm import SVC
 
 
 def main():
-    parser = argparse.ArgumentParser()
-    parser.add_argument('--path', help='Path of the video you want to test on.', default=0)
-    args = parser.parse_args()
-    
     # Cai dat cac tham so can thiet
     MINSIZE = 20
     THRESHOLD = [0.6, 0.7, 0.7]
@@ -85,43 +76,44 @@ def main():
                             bb[i][3] = det[i][3]
 
                             # Cat phan khuon mat tim duoc
-                            cropped = frame[bb[i][1]:bb[i][3], bb[i][0]:bb[i][2], :]
-                            scaled = cv2.resize(cropped, (INPUT_IMAGE_SIZE, INPUT_IMAGE_SIZE),
-                                                interpolation=cv2.INTER_CUBIC)
-                            scaled = facenet.prewhiten(scaled)
-                            scaled_reshape = scaled.reshape(-1, INPUT_IMAGE_SIZE, INPUT_IMAGE_SIZE, 3)
-                            feed_dict = {images_placeholder: scaled_reshape, phase_train_placeholder: False}
-                            emb_array = sess.run(embeddings, feed_dict=feed_dict)
-                            
-                            # Dua vao model de classifier
-                            predictions = model.predict_proba(emb_array)
-                            best_class_indices = np.argmax(predictions, axis=1)
-                            best_class_probabilities = predictions[
-                                np.arange(len(best_class_indices)), best_class_indices]
-                            
-                            # Lay ra ten va ty le % cua class co ty le cao nhat
-                            best_name = class_names[best_class_indices[0]]
-                            print("Name: {}, Probability: {}".format(best_name, best_class_probabilities))
+                            if (bb[i][3] - bb[i][1]) / frame.shape[0] > 0.25:
+                                cropped = frame[bb[i][1]:bb[i][3], bb[i][0]:bb[i][2], :]
+                                scaled = cv2.resize(cropped, (INPUT_IMAGE_SIZE, INPUT_IMAGE_SIZE),
+                                                    interpolation=cv2.INTER_CUBIC)
+                                scaled = facenet.prewhiten(scaled)
+                                scaled_reshape = scaled.reshape(-1, INPUT_IMAGE_SIZE, INPUT_IMAGE_SIZE, 3)
+                                feed_dict = {images_placeholder: scaled_reshape, phase_train_placeholder: False}
+                                emb_array = sess.run(embeddings, feed_dict=feed_dict)
 
-                            # Ve khung mau xanh quanh khuon mat
-                            cv2.rectangle(frame, (bb[i][0], bb[i][1]), (bb[i][2], bb[i][3]), (0, 255, 0), 2)
-                            text_x = bb[i][0]
-                            text_y = bb[i][3] + 20
+                                # Dua vao model de classifier
+                                predictions = model.predict_proba(emb_array)
+                                best_class_indices = np.argmax(predictions, axis=1)
+                                best_class_probabilities = predictions[
+                                    np.arange(len(best_class_indices)), best_class_indices]
 
-                            # Neu ty le nhan dang > 0.5 thi hien thi ten
-                            if best_class_probabilities > 0.5:
-                                name = class_names[best_class_indices[0]]
-                            else:
-                                # Con neu <=0.5 thi hien thi Unknow
-                                name = "Unknown"
-                                
-                            # Viet text len tren frame    
-                            cv2.putText(frame, name, (text_x, text_y), cv2.FONT_HERSHEY_COMPLEX_SMALL,
-                                        1, (255, 255, 255), thickness=1, lineType=2)
-                            cv2.putText(frame, str(round(best_class_probabilities[0], 3)), (text_x, text_y + 17),
-                                        cv2.FONT_HERSHEY_COMPLEX_SMALL,
-                                        1, (255, 255, 255), thickness=1, lineType=2)
-                            person_detected[best_name] += 1
+                                # Lay ra ten va ty le % cua class co ty le cao nhat
+                                best_name = class_names[best_class_indices[0]]
+                                print("Name: {}, Probability: {}".format(best_name, best_class_probabilities))
+
+                                # Ve khung mau xanh quanh khuon mat
+                                cv2.rectangle(frame, (bb[i][0], bb[i][1]), (bb[i][2], bb[i][3]), (0, 255, 0), 2)
+                                text_x = bb[i][0]
+                                text_y = bb[i][3] + 20
+
+                                # Neu ty le nhan dang > 0.5 thi hien thi ten
+                                if best_class_probabilities > 0.5:
+                                    name = class_names[best_class_indices[0]]
+                                else:
+                                    # Con neu <=0.5 thi hien thi Unknow
+                                    name = "Unknown"
+
+                                # Viet text len tren frame
+                                cv2.putText(frame, name, (text_x, text_y), cv2.FONT_HERSHEY_COMPLEX_SMALL,
+                                            1, (255, 255, 255), thickness=1, lineType=2)
+                                cv2.putText(frame, str(round(best_class_probabilities[0], 3)), (text_x, text_y + 17),
+                                            cv2.FONT_HERSHEY_COMPLEX_SMALL,
+                                            1, (255, 255, 255), thickness=1, lineType=2)
+                                person_detected[best_name] += 1
                 except:
                     pass
 

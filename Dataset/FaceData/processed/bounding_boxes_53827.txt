@@ -1,3 +1,5 @@
+Dataset/FaceData/processed\DonaldTrump\DonaldTrump0210.png
+Dataset/FaceData/processed\DonaldTrump\DonaldTrump0211.png
 Dataset/FaceData/processed\Andrew\Andrew0226.png
 Dataset/FaceData/processed\Andrew\Andrew0227.png
 Dataset/FaceData/processed\Andrew\Andrew0228.png
@@ -31,9 +33,6 @@ Dataset/FaceData/processed\Andrew\Andrew0296.png
 Dataset/FaceData/processed\Andrew\Andrew0297.png
 Dataset/FaceData/processed\Andrew\Andrew0298.png
 Dataset/FaceData/processed\Andrew\Andrew0299.png
-Dataset/FaceData/processed\DonaldTrump\DonaldTrump0272.png 78 10 155 113
-Dataset/FaceData/processed\DonaldTrump\DonaldTrump0276.png 79 12 155 114
-Dataset/FaceData/processed\DonaldTrump\DonaldTrump0277.png 80 17 153 115
 Dataset/FaceData/processed\BanThach\BanThach0269.png
 Dataset/FaceData/processed\BanThach\BanThach0270.png
 Dataset/FaceData/processed\BanThach\BanThach0271.png

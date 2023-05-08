@@ -1,0 +1,149 @@
+Dataset/FaceData/processed\Obama\Obama0229.png 107 9 165 84
+Dataset/FaceData/processed\Obama\Obama0257.png 94 0 160 80
+Dataset/FaceData/processed\Obama\Obama0238.png 100 7 162 88
+Dataset/FaceData/processed\Obama\Obama0205.png 105 23 154 87
+Dataset/FaceData/processed\Obama\Obama0206.png 105 23 154 87
+Dataset/FaceData/processed\Obama\Obama0279.png 96 1 162 90
+Dataset/FaceData/processed\Obama\Obama0277.png 97 0 163 89
+Dataset/FaceData/processed\Obama\Obama0260.png 96 0 161 83
+Dataset/FaceData/processed\Obama\Obama0222.png 109 16 163 84
+Dataset/FaceData/processed\Obama\Obama0292.png 93 6 162 101
+Dataset/FaceData/processed\Obama\Obama0241.png 97 0 163 88
+Dataset/FaceData/processed\Obama\Obama0248.png 92 0 159 85
+Dataset/FaceData/processed\Obama\Obama0295.png 93 4 160 96
+Dataset/FaceData/processed\Obama\Obama0247.png 92 0 161 92
+Dataset/FaceData/processed\Obama\Obama0221.png 109 16 162 83
+Dataset/FaceData/processed\Obama\Obama0209.png 107 25 157 88
+Dataset/FaceData/processed\Obama\Obama0287.png 95 0 167 95
+Dataset/FaceData/processed\Obama\Obama0293.png 95 7 160 94
+Dataset/FaceData/processed\Obama\Obama0219.png 108 15 161 82
+Dataset/FaceData/processed\Obama\Obama0283.png 95 3 160 89
+Dataset/FaceData/processed\Obama\Obama0276.png 92 0 162 93
+Dataset/FaceData/processed\Obama\Obama0272.png 95 4 162 93
+Dataset/FaceData/processed\Obama\Obama0251.png 96 0 162 82
+Dataset/FaceData/processed\Obama\Obama0290.png 94 3 161 95
+Dataset/FaceData/processed\Obama\Obama0204.png 105 20 154 82
+Dataset/FaceData/processed\Obama\Obama0249.png 94 0 160 85
+Dataset/FaceData/processed\Obama\Obama0256.png 95 0 160 81
+Dataset/FaceData/processed\Obama\Obama0299.png 93 2 161 94
+Dataset/FaceData/processed\Obama\Obama0285.png 96 2 161 88
+Dataset/FaceData/processed\Obama\Obama0252.png 96 0 161 76
+Dataset/FaceData/processed\Obama\Obama0244.png 92 4 159 95
+Dataset/FaceData/processed\Obama\Obama0270.png 95 0 169 103
+Dataset/FaceData/processed\Obama\Obama0262.png 94 0 161 89
+Dataset/FaceData/processed\Obama\Obama0269.png 95 3 161 92
+Dataset/FaceData/processed\Obama\Obama0210.png 107 25 157 87
+Dataset/FaceData/processed\Obama\Obama0211.png 106 21 155 85
+Dataset/FaceData/processed\Obama\Obama0239.png 97 2 165 94
+Dataset/FaceData/processed\Obama\Obama0275.png 96 0 161 86
+Dataset/FaceData/processed\Obama\Obama0216.png 106 16 160 86
+Dataset/FaceData/processed\Obama\Obama0242.png 94 1 161 91
+Dataset/FaceData/processed\Obama\Obama0237.png 92 0 162 100
+Dataset/FaceData/processed\Obama\Obama0213.png 106 19 157 84
+Dataset/FaceData/processed\Obama\Obama0278.png 96 2 162 92
+Dataset/FaceData/processed\Obama\Obama0267.png 94 0 162 92
+Dataset/FaceData/processed\Obama\Obama0201.png 106 18 155 78
+Dataset/FaceData/processed\Obama\Obama0296.png 92 3 159 95
+Dataset/FaceData/processed\Obama\Obama0291.png 94 5 163 99
+Dataset/FaceData/processed\Obama\Obama0265.png 95 0 168 98
+Dataset/FaceData/processed\Obama\Obama0228.png 106 10 165 86
+Dataset/FaceData/processed\Obama\Obama0271.png 94 3 161 92
+Dataset/FaceData/processed\Obama\Obama0226.png 109 11 164 82
+Dataset/FaceData/processed\Obama\Obama0200.png 106 17 154 77
+Dataset/FaceData/processed\Obama\Obama0261.png 96 0 160 82
+Dataset/FaceData/processed\Obama\Obama0218.png 109 15 160 81
+Dataset/FaceData/processed\Obama\Obama0203.png 107 21 155 79
+Dataset/FaceData/processed\Obama\Obama0217.png 108 15 160 83
+Dataset/FaceData/processed\Obama\Obama0297.png 92 2 160 98
+Dataset/FaceData/processed\Obama\Obama0208.png 107 25 156 90
+Dataset/FaceData/processed\Obama\Obama0298.png 94 5 160 92
+Dataset/FaceData/processed\Obama\Obama0231.png 105 8 164 86
+Dataset/FaceData/processed\Obama\Obama0223.png 109 17 162 84
+Dataset/FaceData/processed\Obama\Obama0225.png 108 13 163 83
+Dataset/FaceData/processed\Obama\Obama0232.png 103 7 163 85
+Dataset/FaceData/processed\Obama\Obama0288.png 92 2 163 95
+Dataset/FaceData/processed\Obama\Obama0235.png 94 3 161 102
+Dataset/FaceData/processed\Obama\Obama0240.png 98 1 162 87
+Dataset/FaceData/processed\Obama\Obama0230.png 107 10 163 79
+Dataset/FaceData/processed\Obama\Obama0284.png 93 2 161 92
+Dataset/FaceData/processed\Obama\Obama0286.png 94 0 167 99
+Dataset/FaceData/processed\Obama\Obama0253.png 94 0 161 80
+Dataset/FaceData/processed\Obama\Obama0282.png 93 2 159 91
+Dataset/FaceData/processed\Obama\Obama0245.png 91 1 161 97
+Dataset/FaceData/processed\Obama\Obama0281.png 94 2 159 91
+Dataset/FaceData/processed\Obama\Obama0280.png 93 2 160 92
+Dataset/FaceData/processed\Obama\Obama0250.png 94 0 161 84
+Dataset/FaceData/processed\Obama\Obama0214.png 107 18 159 83
+Dataset/FaceData/processed\Obama\Obama0268.png 96 2 161 85
+Dataset/FaceData/processed\Obama\Obama0254.png 96 0 161 79
+Dataset/FaceData/processed\Obama\Obama0234.png 101 10 164 92
+Dataset/FaceData/processed\Obama\Obama0273.png 94 0 167 102
+Dataset/FaceData/processed\Obama\Obama0243.png 94 4 160 95
+Dataset/FaceData/processed\Obama\Obama0263.png 96 1 159 82
+Dataset/FaceData/processed\Obama\Obama0264.png 96 2 160 85
+Dataset/FaceData/processed\Obama\Obama0212.png 106 17 158 87
+Dataset/FaceData/processed\Obama\Obama0220.png 108 15 163 84
+Dataset/FaceData/processed\Obama\Obama0202.png 107 19 156 79
+Dataset/FaceData/processed\Obama\Obama0236.png 99 6 165 98
+Dataset/FaceData/processed\Obama\Obama0255.png 96 0 160 81
+Dataset/FaceData/processed\Obama\Obama0258.png 97 0 161 80
+Dataset/FaceData/processed\Obama\Obama0266.png 94 0 161 90
+Dataset/FaceData/processed\Obama\Obama0224.png 107 14 163 86
+Dataset/FaceData/processed\Obama\Obama0227.png 106 3 170 92
+Dataset/FaceData/processed\Obama\Obama0207.png 105 24 156 88
+Dataset/FaceData/processed\Obama\Obama0274.png 95 0 169 101
+Dataset/FaceData/processed\Obama\Obama0233.png 102 6 163 88
+Dataset/FaceData/processed\Obama\Obama0294.png 93 5 160 97
+Dataset/FaceData/processed\Obama\Obama0259.png 97 0 162 83
+Dataset/FaceData/processed\Obama\Obama0215.png 107 19 159 82
+Dataset/FaceData/processed\Obama\Obama0289.png 93 0 160 91
+Dataset/FaceData/processed\Obama\Obama0246.png 92 2 160 93
+Dataset/FaceData/processed\BanThach\BanThach0269.png
+Dataset/FaceData/processed\BanThach\BanThach0270.png
+Dataset/FaceData/processed\BanThach\BanThach0271.png
+Dataset/FaceData/processed\BanThach\BanThach0272.png
+Dataset/FaceData/processed\BanThach\BanThach0273.png
+Dataset/FaceData/processed\BanThach\BanThach0274.png
+Dataset/FaceData/processed\BanThach\BanThach0275.png
+Dataset/FaceData/processed\BanThach\BanThach0276.png
+Dataset/FaceData/processed\BanThach\BanThach0277.png
+Dataset/FaceData/processed\BanThach\BanThach0278.png
+Dataset/FaceData/processed\BanThach\BanThach0279.png
+Dataset/FaceData/processed\BanThach\BanThach0280.png
+Dataset/FaceData/processed\BanThach\BanThach0281.png
+Dataset/FaceData/processed\BanThach\BanThach0282.png
+Dataset/FaceData/processed\Andrew\Andrew0226.png
+Dataset/FaceData/processed\Andrew\Andrew0227.png
+Dataset/FaceData/processed\Andrew\Andrew0228.png
+Dataset/FaceData/processed\Andrew\Andrew0229.png
+Dataset/FaceData/processed\Andrew\Andrew0230.png
+Dataset/FaceData/processed\Andrew\Andrew0231.png
+Dataset/FaceData/processed\Andrew\Andrew0232.png
+Dataset/FaceData/processed\Andrew\Andrew0233.png
+Dataset/FaceData/processed\Andrew\Andrew0234.png
+Dataset/FaceData/processed\Andrew\Andrew0235.png
+Dataset/FaceData/processed\Andrew\Andrew0236.png
+Dataset/FaceData/processed\Andrew\Andrew0237.png
+Dataset/FaceData/processed\Andrew\Andrew0238.png
+Dataset/FaceData/processed\Andrew\Andrew0239.png
+Dataset/FaceData/processed\Andrew\Andrew0240.png
+Dataset/FaceData/processed\Andrew\Andrew0241.png
+Dataset/FaceData/processed\Andrew\Andrew0242.png
+Dataset/FaceData/processed\Andrew\Andrew0243.png
+Dataset/FaceData/processed\Andrew\Andrew0244.png
+Dataset/FaceData/processed\Andrew\Andrew0245.png
+Dataset/FaceData/processed\Andrew\Andrew0246.png
+Dataset/FaceData/processed\Andrew\Andrew0247.png
+Dataset/FaceData/processed\Andrew\Andrew0248.png
+Dataset/FaceData/processed\Andrew\Andrew0249.png
+Dataset/FaceData/processed\Andrew\Andrew0291.png
+Dataset/FaceData/processed\Andrew\Andrew0292.png
+Dataset/FaceData/processed\Andrew\Andrew0293.png
+Dataset/FaceData/processed\Andrew\Andrew0294.png
+Dataset/FaceData/processed\Andrew\Andrew0295.png
+Dataset/FaceData/processed\Andrew\Andrew0296.png
+Dataset/FaceData/processed\Andrew\Andrew0297.png
+Dataset/FaceData/processed\Andrew\Andrew0298.png
+Dataset/FaceData/processed\Andrew\Andrew0299.png
+Dataset/FaceData/processed\DonaldTrump\DonaldTrump0210.png
+Dataset/FaceData/processed\DonaldTrump\DonaldTrump0211.png

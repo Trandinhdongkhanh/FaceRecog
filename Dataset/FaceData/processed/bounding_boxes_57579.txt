@@ -1,0 +1,139 @@
+Dataset/FaceData/processed\DonaldTrump\DonaldTrump0210.png
+Dataset/FaceData/processed\DonaldTrump\DonaldTrump0211.png
+Dataset/FaceData/processed\BanHoang\BanHoang0239.png 23 43 226 250
+Dataset/FaceData/processed\BanHoang\BanHoang0208.png 19 41 226 250
+Dataset/FaceData/processed\BanHoang\BanHoang0218.png 42 50 233 250
+Dataset/FaceData/processed\BanHoang\BanHoang0238.png 18 42 221 250
+Dataset/FaceData/processed\BanHoang\BanHoang0274.png
+Dataset/FaceData/processed\BanHoang\BanHoang0250.png 34 33 216 233
+Dataset/FaceData/processed\BanHoang\BanHoang0251.png 36 46 208 231
+Dataset/FaceData/processed\BanHoang\BanHoang0280.png 24 58 227 250
+Dataset/FaceData/processed\BanHoang\BanHoang0288.png 28 58 224 250
+Dataset/FaceData/processed\BanHoang\BanHoang0227.png 20 44 224 250
+Dataset/FaceData/processed\BanHoang\BanHoang0276.png
+Dataset/FaceData/processed\BanHoang\BanHoang0210.png 33 44 232 250
+Dataset/FaceData/processed\BanHoang\BanHoang0242.png 24 43 221 250
+Dataset/FaceData/processed\BanHoang\BanHoang0269.png
+Dataset/FaceData/processed\BanHoang\BanHoang0222.png 28 47 226 250
+Dataset/FaceData/processed\BanHoang\BanHoang0289.png 31 54 237 250
+Dataset/FaceData/processed\BanHoang\BanHoang0213.png 37 55 229 250
+Dataset/FaceData/processed\BanHoang\BanHoang0255.png 28 40 221 250
+Dataset/FaceData/processed\BanHoang\BanHoang0256.png 28 42 223 250
+Dataset/FaceData/processed\BanHoang\BanHoang0259.png 29 44 228 250
+Dataset/FaceData/processed\BanHoang\BanHoang0264.png 27 48 226 250
+Dataset/FaceData/processed\BanHoang\BanHoang0273.png
+Dataset/FaceData/processed\BanHoang\BanHoang0257.png 28 45 221 250
+Dataset/FaceData/processed\BanHoang\BanHoang0211.png 35 46 235 250
+Dataset/FaceData/processed\BanHoang\BanHoang0277.png
+Dataset/FaceData/processed\BanHoang\BanHoang0283.png 31 58 225 250
+Dataset/FaceData/processed\BanHoang\BanHoang0233.png 0 53 197 250
+Dataset/FaceData/processed\BanHoang\BanHoang0245.png 25 32 221 250
+Dataset/FaceData/processed\BanHoang\BanHoang0279.png 26 60 238 250
+Dataset/FaceData/processed\BanHoang\BanHoang0220.png 33 46 231 250
+Dataset/FaceData/processed\BanHoang\BanHoang0252.png 32 40 214 234
+Dataset/FaceData/processed\BanHoang\BanHoang0281.png 27 58 225 250
+Dataset/FaceData/processed\BanHoang\BanHoang0217.png 45 57 231 250
+Dataset/FaceData/processed\BanHoang\BanHoang0214.png 45 55 232 250
+Dataset/FaceData/processed\BanHoang\BanHoang0205.png 20 33 228 250
+Dataset/FaceData/processed\BanHoang\BanHoang0224.png 23 40 224 250
+Dataset/FaceData/processed\BanHoang\BanHoang0206.png 21 39 226 250
+Dataset/FaceData/processed\BanHoang\BanHoang0232.png 0 55 190 250
+Dataset/FaceData/processed\BanHoang\BanHoang0240.png 20 41 222 250
+Dataset/FaceData/processed\BanHoang\BanHoang0223.png 19 41 226 250
+Dataset/FaceData/processed\BanHoang\BanHoang0267.png 18 62 235 250
+Dataset/FaceData/processed\BanHoang\BanHoang0202.png 21 22 222 250
+Dataset/FaceData/processed\BanHoang\BanHoang0261.png 25 50 225 250
+Dataset/FaceData/processed\BanHoang\BanHoang0228.png 16 45 219 250
+Dataset/FaceData/processed\BanHoang\BanHoang0254.png 28 41 217 250
+Dataset/FaceData/processed\BanHoang\BanHoang0212.png 39 55 238 250
+Dataset/FaceData/processed\BanHoang\BanHoang0236.png 5 54 203 250
+Dataset/FaceData/processed\BanHoang\BanHoang0265.png 28 57 224 250
+Dataset/FaceData/processed\BanHoang\BanHoang0263.png 30 51 230 250
+Dataset/FaceData/processed\BanHoang\BanHoang0287.png 29 60 227 250
+Dataset/FaceData/processed\BanHoang\BanHoang0275.png
+Dataset/FaceData/processed\BanHoang\BanHoang0248.png 30 33 213 231
+Dataset/FaceData/processed\BanHoang\BanHoang0237.png 2 40 216 250
+Dataset/FaceData/processed\BanHoang\BanHoang0244.png 22 34 222 250
+Dataset/FaceData/processed\BanHoang\BanHoang0234.png 0 51 197 250
+Dataset/FaceData/processed\BanHoang\BanHoang0243.png 21 36 220 250
+Dataset/FaceData/processed\BanHoang\BanHoang0285.png 26 60 224 250
+Dataset/FaceData/processed\BanHoang\BanHoang0246.png 23 35 213 250
+Dataset/FaceData/processed\BanHoang\BanHoang0207.png 21 42 224 250
+Dataset/FaceData/processed\BanHoang\BanHoang0249.png 33 34 214 232
+Dataset/FaceData/processed\BanHoang\BanHoang0215.png 47 58 235 250
+Dataset/FaceData/processed\BanHoang\BanHoang0262.png 30 50 228 250
+Dataset/FaceData/processed\BanHoang\BanHoang0260.png 31 52 226 250
+Dataset/FaceData/processed\BanHoang\BanHoang0258.png 32 49 221 250
+Dataset/FaceData/processed\BanHoang\BanHoang0230.png 0 50 196 250
+Dataset/FaceData/processed\BanHoang\BanHoang0201.png 7 10 216 250
+Dataset/FaceData/processed\BanHoang\BanHoang0209.png 25 49 226 250
+Dataset/FaceData/processed\BanHoang\BanHoang0219.png 37 50 231 250
+Dataset/FaceData/processed\BanHoang\BanHoang0229.png 5 46 209 250
+Dataset/FaceData/processed\BanHoang\BanHoang0282.png 26 57 227 250
+Dataset/FaceData/processed\BanHoang\BanHoang0231.png 0 54 192 250
+Dataset/FaceData/processed\BanHoang\BanHoang0270.png
+Dataset/FaceData/processed\BanHoang\BanHoang0272.png
+Dataset/FaceData/processed\BanHoang\BanHoang0278.png
+Dataset/FaceData/processed\BanHoang\BanHoang0253.png 29 42 212 244
+Dataset/FaceData/processed\BanHoang\BanHoang0266.png 27 65 222 250
+Dataset/FaceData/processed\BanHoang\BanHoang0286.png 28 61 224 250
+Dataset/FaceData/processed\BanHoang\BanHoang0225.png 18 39 223 250
+Dataset/FaceData/processed\BanHoang\BanHoang0204.png 25 34 225 250
+Dataset/FaceData/processed\BanHoang\BanHoang0241.png 15 34 224 250
+Dataset/FaceData/processed\BanHoang\BanHoang0226.png 25 42 222 250
+Dataset/FaceData/processed\BanHoang\BanHoang0284.png 31 59 224 250
+Dataset/FaceData/processed\BanHoang\BanHoang0203.png 22 32 225 250
+Dataset/FaceData/processed\BanHoang\BanHoang0271.png
+Dataset/FaceData/processed\BanHoang\BanHoang0268.png
+Dataset/FaceData/processed\BanHoang\BanHoang0216.png 47 62 231 250
+Dataset/FaceData/processed\BanHoang\BanHoang0247.png 31 31 215 236
+Dataset/FaceData/processed\BanHoang\BanHoang0200.png 4 24 211 250
+Dataset/FaceData/processed\BanHoang\BanHoang0221.png 33 44 233 250
+Dataset/FaceData/processed\BanHoang\BanHoang0235.png 0 52 196 250
+Dataset/FaceData/processed\BanThach\BanThach0269.png
+Dataset/FaceData/processed\BanThach\BanThach0270.png
+Dataset/FaceData/processed\BanThach\BanThach0271.png
+Dataset/FaceData/processed\BanThach\BanThach0272.png
+Dataset/FaceData/processed\BanThach\BanThach0273.png
+Dataset/FaceData/processed\BanThach\BanThach0274.png
+Dataset/FaceData/processed\BanThach\BanThach0275.png
+Dataset/FaceData/processed\BanThach\BanThach0276.png
+Dataset/FaceData/processed\BanThach\BanThach0277.png
+Dataset/FaceData/processed\BanThach\BanThach0278.png
+Dataset/FaceData/processed\BanThach\BanThach0279.png
+Dataset/FaceData/processed\BanThach\BanThach0280.png
+Dataset/FaceData/processed\BanThach\BanThach0281.png
+Dataset/FaceData/processed\BanThach\BanThach0282.png
+Dataset/FaceData/processed\Andrew\Andrew0226.png
+Dataset/FaceData/processed\Andrew\Andrew0227.png
+Dataset/FaceData/processed\Andrew\Andrew0228.png
+Dataset/FaceData/processed\Andrew\Andrew0229.png
+Dataset/FaceData/processed\Andrew\Andrew0230.png
+Dataset/FaceData/processed\Andrew\Andrew0231.png
+Dataset/FaceData/processed\Andrew\Andrew0232.png
+Dataset/FaceData/processed\Andrew\Andrew0233.png
+Dataset/FaceData/processed\Andrew\Andrew0234.png
+Dataset/FaceData/processed\Andrew\Andrew0235.png
+Dataset/FaceData/processed\Andrew\Andrew0236.png
+Dataset/FaceData/processed\Andrew\Andrew0237.png
+Dataset/FaceData/processed\Andrew\Andrew0238.png
+Dataset/FaceData/processed\Andrew\Andrew0239.png
+Dataset/FaceData/processed\Andrew\Andrew0240.png
+Dataset/FaceData/processed\Andrew\Andrew0241.png
+Dataset/FaceData/processed\Andrew\Andrew0242.png
+Dataset/FaceData/processed\Andrew\Andrew0243.png
+Dataset/FaceData/processed\Andrew\Andrew0244.png
+Dataset/FaceData/processed\Andrew\Andrew0245.png
+Dataset/FaceData/processed\Andrew\Andrew0246.png
+Dataset/FaceData/processed\Andrew\Andrew0247.png
+Dataset/FaceData/processed\Andrew\Andrew0248.png
+Dataset/FaceData/processed\Andrew\Andrew0249.png
+Dataset/FaceData/processed\Andrew\Andrew0291.png
+Dataset/FaceData/processed\Andrew\Andrew0292.png
+Dataset/FaceData/processed\Andrew\Andrew0293.png
+Dataset/FaceData/processed\Andrew\Andrew0294.png
+Dataset/FaceData/processed\Andrew\Andrew0295.png
+Dataset/FaceData/processed\Andrew\Andrew0296.png
+Dataset/FaceData/processed\Andrew\Andrew0297.png
+Dataset/FaceData/processed\Andrew\Andrew0298.png
+Dataset/FaceData/processed\Andrew\Andrew0299.png

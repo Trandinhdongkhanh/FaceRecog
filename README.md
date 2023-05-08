@@ -9,7 +9,11 @@ Tạo thư mục Dataset trong FaceRecog, trong đó tạo tiếp thư mục Fac
 
 Tạo thư mục Models trong FaceRecog để chờ sẵn tẹo lưu model sau.
 
-Bây giờ các bạn sưu tầm ảnh của 2 người trở lên, mỗi người 10 tấm hình rõ mặt (at least 2 người). Mình ví dụ 2 người tên là NguyenVanA và LeThiB nhé. Các bạn tạo 02 thư mục NguyenVanA và LeThiB trong thư mục raw và copy ảnh của 2 người vào riêng 2 thư mục đó, ảnh của ai vào thư mục của người đó nhé.
+Bây giờ các bạn sưu tầm ảnh của 2 người trở lên, mỗi người 10 tấm hình rõ mặt (at least 2 người). Mình ví dụ 2 người tên là NguyenVanA và LeThiB nhé. Các bạn tạo 02 thư mục NguyenVanA và LeThiB trong thư mục raw và copy ảnh của 2 người vào riêng 2 thư mục đó, ảnh của ai vào thư mục của người đó nhé. Hoặc bạn có thể tự quay video khuôn mặt mình, hoặc tải video của một số người nổi tiếng trên youtube (lưu ý là chỉ 1 khuôn mặt được phép xuất hiện thôi nhé) và chạy lệnh:
+
+### `python src/GetImageFromVideo.py`
+
+## Lưu ý: Trc khi chạy lệnh trên các bạn vào file đó và chỉnh lại đường dẫn sao cho phù hợp.
 
 Ví dụ cây thư mục của mình để các bạn tham khảo:
 

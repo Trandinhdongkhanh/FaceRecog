@@ -1,5 +1,4 @@
 # FaceRecog
-This is MiAI version
 
 Bây giờ các bạn tạo các thư mục như sau:
 
@@ -34,3 +33,5 @@ Cuối cùng các bạn chạy lệnh:
 Kết quả:
 
 ![image](https://user-images.githubusercontent.com/95671871/236677770-c18cd725-f168-4ee9-8eb2-b46e71fe21ca.png)
+
+# Lưu ý là các bạn phải dùng python 3.7 nhé

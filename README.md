@@ -1,4 +1,7 @@
 # FaceRecog
+## Trần Đình Đông Khánh - 20110503
+## Đào Ngọc Thạch - 20110564
+## Phan Chí Bảo - 20110441
 
 Bây giờ các bạn tạo các thư mục như sau:
 
